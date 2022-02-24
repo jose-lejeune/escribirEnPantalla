@@ -143,7 +143,7 @@ public class escribirEnPantalla {
 		escribirEnLaPantallaDeTexto(17,8,"Para cumplir con el espíritu de código abierto de CodeLite, se compila y depura usando solo herramientas libres (MinGW y GDB).");
 		escribirEnLaPantallaDeTexto(19,8,"CodeLite ofrece gestión de proyectos (espacios de trabajo/proyectos), completación de código, navegación por los ficheros fuente,");
 		escribirEnLaPantallaDeTexto(20,8,"resaltado de sintaxis, integración con Subversion, Cscope y UnitTest++, un debugger interactivo montado sobre gdb y un editor de código");
-		escribirEnLaPantallaDeTexto(21,8,"potente, basado en Scintilla");
+		escribirEnLaPantallaDeTexto(21,8,"potente, basado en Scintilla.....");
 	}
 	private static void eclipse() {
 		inicializarBlogPantallaDeTexto();
