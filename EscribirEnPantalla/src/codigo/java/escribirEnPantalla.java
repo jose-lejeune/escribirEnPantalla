@@ -4,9 +4,7 @@ import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Scanner;
-/**
-*   Clase que muestra un blog confeccionado en texto
-*/
+
 public class escribirEnPantalla {
 	
 	public static String[] PantallaDeTexto;
