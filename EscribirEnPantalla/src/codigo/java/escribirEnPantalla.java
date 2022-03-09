@@ -68,6 +68,9 @@ public class escribirEnPantalla {
 		}
 		leerOpcionMenu();
 	}
+	/**
+	 *  Metodo para captura una opcion del menu
+	 */
 	private static void leerOpcionMenu() {
 		System.out.println("Seleccione IDE (C,E,N) o pulse X para salir");
         String sIDE = miScan.nextLine();
